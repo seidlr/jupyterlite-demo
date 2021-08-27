@@ -48,6 +48,16 @@
       },
       {
         "extension": "./extension",
+        "load": "static/remoteEntry.8b2d16b6f8ed831ddea6.js",
+        "name": "jupyter-vue"
+      },
+      {
+        "extension": "./extension",
+        "load": "static/remoteEntry.fcff606ae435a57ff541.js",
+        "name": "jupyter-vuetify"
+      },
+      {
+        "extension": "./extension",
         "load": "static/remoteEntry.8f896d6ad92823566c46.js",
         "name": "jupyterlab-drawio",
         "style": "./style"
