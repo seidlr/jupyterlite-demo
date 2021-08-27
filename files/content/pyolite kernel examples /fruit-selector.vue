@@ -62,6 +62,7 @@ module.exports = {
   watch: {
     fruits() {
       console.log("Current fruits", this.fruits);
+      console.log("Has banana", this.hasBanana());
     },
   },
 };
